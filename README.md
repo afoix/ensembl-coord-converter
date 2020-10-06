@@ -4,7 +4,7 @@ This is a tool to convert coordinates on chromosomes in the GRCh38 assembly to t
 
 The tool requires that the Ensembl 98 Perl modules are installed and in your PERL5LIB environment variable, [as described in the installation instructions.](http://www.ensembl.org/info/docs/api/api_installation.html) You can also run the tool inside the [Ensembl Virtual Machine.](http://www.ensembl.org/info/data/virtual_machine.html)
 
-Usage:
+Usage for the tool:
 
 ```
 > perl convert-h38-to-h37.pl <chromosome> <start> <end>
